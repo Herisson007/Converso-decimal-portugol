@@ -1,7 +1,7 @@
 
 # Conversor de Números Decimais para Outras Bases
 <ul>
-  <li>Este programa é um conversor de números decimais para outras bases numéricas, como binário, octal e hexadecimal. Ele permite que o usuário insira um número decimal e escolha a base para realizar a conversão.<li>
+  <li>Este programa é um conversor de números decimais para outras bases numéricas, como binário, octal e hexadecimal. Ele permite que o usuário insira um número decimal e escolha a base para realizar a conversão.</li>
 </ul>
 
 # Funcionalidades:
