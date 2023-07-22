@@ -1,4 +1,4 @@
-# Converso-decimal-portugol
+# Converso decimal em portugol!!!
 <ul>
   <Li>Decimal para Binario</Li>
   <li>Decimal para Octal</li>
